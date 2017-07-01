@@ -1,0 +1,24 @@
+{
+  "name": "ti.transform-example",
+  "version": "0.1.0",
+  "description": "ti.transform example Alloy project",
+  "keywords": [
+    "ti.transform"
+  ],
+  "author": {
+    "name": "Vlad Misyura",
+    "email": "vlad.misyura@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vladm3/ti.transform-example.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "babel-preset-env": "^1.5.2",
+    "ti.transform": "^0.1.0",
+    "ti.transform.babel": "^0.1.0",
+    "ti.transform.pug": "^0.1.0",
+    "ti.transform.stss": "^0.1.0"
+  }
+}
